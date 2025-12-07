@@ -1,0 +1,27 @@
+# Project: <NAME>
+
+## Problem
+What risk/gap does this solve?
+
+## Goal
+What success looks like (measurable).
+
+## Architecture (Diagram)
+- Add diagram(s) in /diagrams
+
+## Build Steps (High Level)
+1)
+2)
+3)
+
+## Controls Implemented
+- Control → Why → How validated
+
+## Evidence
+See /evidence for screenshots and exports.
+
+## KPIs
+- Metric + baseline + target
+
+## Lessons Learned
+- What changed after testing and tuning
