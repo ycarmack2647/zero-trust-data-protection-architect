@@ -1,0 +1,51 @@
+zero-trust-data-protection-architect/
+├─ README.md
+├─ 00-portfolio-overview/
+│  ├─ roadmap-24-months.md
+│  ├─ skills-matrix.md
+│  ├─ metrics-kpis.md
+│  ├─ screenshots-checklist.md
+│  └─ glossary.md
+├─ 01-purview-data-protection-program/
+│  ├─ README.md
+│  ├─ diagrams/
+│  ├─ policies/
+│  ├─ runbooks/
+│  ├─ evidence/
+│  └─ lessons-learned.md
+├─ 02-zero-trust-identity-hub-entra/
+│  ├─ README.md
+│  ├─ diagrams/
+│  ├─ ca-policy-matrix/
+│  ├─ pim/
+│  ├─ runbooks/
+│  └─ evidence/
+├─ 03-purview-to-sentinel-detections-pack/
+│  ├─ README.md
+│  ├─ diagrams/
+│  ├─ kql-hunting/
+│  ├─ analytic-rules/
+│  ├─ workbooks/
+│  ├─ logic-apps-playbooks/
+│  └─ evidence/
+├─ 04-conditional-access-as-code-blueprints/
+│  ├─ README.md
+│  ├─ policy-blueprints/
+│  ├─ change-control/
+│  ├─ rollout-strategy/
+│  └─ evidence/
+├─ 05-enterprise-zero-trust-reference-architecture/
+│  ├─ README.md
+│  ├─ diagrams/
+│  ├─ adrs-architecture-decisions/
+│  ├─ threat-model/
+│  ├─ standards/
+│  └─ exec-summary-1page.md
+├─ 06-genai-data-protection-guardrails/
+│  ├─ README.md
+│  ├─ diagrams/
+│  ├─ policies/
+│  ├─ monitoring/
+│  ├─ risk-register/
+│  └─ evidence/
+└─ LICENSE
